@@ -1,6 +1,6 @@
 ```
-NAME : SHAKTHI VEL V
-reg no : 24901278
+NAME : LOGU R
+reg no : 212224230141
 ```
 ### EXP1 . study-of-basic-gates digital  IC'S and verification of truth tables for different logic gates, realization using verilog
 **AIM:** 
