@@ -1,8 +1,7 @@
-```
-NAME : LOGU R
-reg no : 212224230141
-```
+
 ### EXP1 . study-of-basic-gates digital  IC'S and verification of truth tables for different logic gates, realization using verilog
+## NAME : LOGU R
+## REG NO : 212224230141
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
